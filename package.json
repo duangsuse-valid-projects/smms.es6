@@ -1,0 +1,21 @@
+{
+  "name": "smms.es6",
+  "version": "1.0.0",
+  "description": "sm.ms public image hosting service api client",
+  "main": "index.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sm.ms",
+    "image-hosting",
+    "client",
+    "api"
+  ],
+  "author": "duangsuse",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
